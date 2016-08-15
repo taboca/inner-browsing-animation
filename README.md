@@ -10,11 +10,9 @@ Another kind of animation effect could be defined within the slide. As an exampl
 
 ## Understanding relationships among elements
 
-The above examples show that relationship among objects is critical to define storytelling features such as transitions — among slides and also for the case of the inner items. 
+The above examples show that relationship among objects is critical to define storytelling features such as transitions — among slides and also for the case of the inner items. This is really clear in the second scenario. As all items are clearlyh sub-items, we normally expect display techniques to be the same for each item. If a professor wants to list its passions, it is likely that each item will be presented using a same presentation technique. This could be as simple as an item that is shown with no effects or it could involve animation, such as when each item is shown with a fade in effect. 
 
-The second scenario, however, serves better to understand that the animation transition, that is associated with each sub-item, may very well be the same for each inner element. So, if a professor wants to list its passions, it is likely that each item will be presented using a same presentation technique. This could be as simple as the case which each item is shown, as professor clicks next, or it could involve animation, such as when each item is shown with a fade in effect. 
-
-Same kind of animation effects can also be used in scenarios among slides, however. Think of the first scenario, and let's assume that each slide is an item of a same category. Say you have a presentation like the following: 
+Animation effects, or transitions, of the same kind, can also be used in scenarios among slides, however. Think of the first scenario but assume that each slide is an item of a same category. Say you have a presentation like the following: 
 
 ```
 Title: animals I love
