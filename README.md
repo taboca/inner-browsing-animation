@@ -24,7 +24,7 @@ Slide 2: tiger
 Slide 3: eagle
 ```
 
-While the above is not a one-slide list, with 3 elements; yet it displays a condition of structing the inner elements. Therefore, the transition between slides could well be organized with the same effect — say a fade in for every time you slide towards a new animal. 
+While the above is not a one-slide list, yet it displays a condition of structing the inner elements. Therefore, the transition between slides could well be organized with the same effect — say a fade in for every time you slide towards a new animal. 
 
 The usage of the same transition, to indicate that you have a new "animal" kind, becomes a cue for an observer audience. Say that you are watching a presentation with a series of animals and you never know what is the amount of animals to be presented. Would it be possible to know when the list ends before seeing the actual slide totally shown? 
 
