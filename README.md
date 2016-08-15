@@ -15,7 +15,7 @@ The above examples show that relationship among objects is critical to define st
 Animation effects, or transitions, of the same kind, can also be used in scenarios among slides, however. Think of the first scenario but assume that each slide is an item of a same category. Say you have a presentation like the following: 
 
 ```
-Title: animals I love
+Title: The animals that I love
 
 Slide 1: lion
 
