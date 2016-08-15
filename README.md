@@ -4,7 +4,7 @@ The goal of this work is to support the design and development for a technology 
 
 ### The case for slides system 
 
-We will use the story of slides to expand the problem and attempt to organize the problem, therefore to have a direction for a solution. First let's imagine a traditional animation architecture for a presentation system. Say it's an animation authoring system for presenting slides. In such sytem, all 'slides' are elements that are presented uniquely, i.e. based in rules that are applied individually to each slide element. This means that an author can define effects that will govern, for example, how a given slide will enter the scene. An example of an animation that applies to a slide is a transition. 
+We will use the story of slides as an attempt to organize the problem, therefore to have a direction for a solution. First let's imagine a traditional animation architecture for a presentation system. Say it's an animation authoring system for presenting slides. In such sytem, all 'slides' are elements that are presented uniquely, i.e. based in rules that are applied individually to each slide element. This means that an author can define effects that will govern, for example, how a given slide will enter the scene. An example of an animation that applies to a slide is a transition. 
 
 Another kind of animation effect could be defined as part of the kind of slide. As an example, an author may want a slide that has a series of items that needs to be shown in a given order. For an author, the elements may be considered as sub-parts of the slide — like a slide being a theme. 
 
