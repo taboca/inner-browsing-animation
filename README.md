@@ -36,7 +36,7 @@ If the transitions are the same, it would; but not exactly because you can see a
 * New
 * N
 
-The case of the "unknown" number of animals is an example of a dynamic aggregation — if you look at it from the perspective of tha audience. We dive into this case because our focus is understand different modes of choreographic experiences can be used to organize animation for elements that needs to be presented. 
+The case of the "unknown" number of animals is an example of a dynamic aggregation — if you look at it from the perspective of the audience. We dive into this case because our focus is understand different modes of choreographic experiences can be used to organize animation for elements that needs to be presented. 
 
 ## Initial design 
 
