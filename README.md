@@ -1,6 +1,6 @@
 ## Introduction
 
-In this work, my goal is to support the design and development for a technology that is aimed to enhance models for animation design and choreography. In the short-term, the aimed outcome is to define cinematographic animation techniques that may apply and govern how a series of incoming elements will be presented as they become part of given group of elements. 
+The goal of this work is to support the design and development for a technology that is aimed to enhance models for animation design and choreography. In the short-term, the aimed outcome is to define cinematographic animation techniques that may apply and govern how a series of incoming elements will be presented as they become part of given group of elements. 
 
 ### The case for slides system 
 
