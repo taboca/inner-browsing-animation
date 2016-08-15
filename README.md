@@ -8,10 +8,40 @@ We will use the story of slides to expand the problem and attempt to organize th
 
 Another kind of animation effect could be defined as part of the kind of slide. As an example, an author may want a slide that has a series of items that needs to be shown in a given order. For an author, the elements may be considered as sub-parts of the slide — like a slide being a theme. 
 
-## Searching for relationships among elements
+## Understanding relationships among elements
 
-In the above model, we have a notion that relationship is very important both for the case of the transition or the case of the inner elements that needs to be shown for a given slide.  does not take in consideration the possibility of more dynamic aggregations to be composed based in dynamic rules. To illustrate an example, think about a kind element, an author. If new authors comes into a presentation, would it be possible to showcase the "best authors?"
+Even the above example shows that relationship is important, both for the case of the transition and the case of the inner elements that needs to be shown for a given slide. 
 
-A proposed solution is to support presentations to allow the existence of category-elements, such as author; and beyond that, to enable new section supervisor elements to define how choreographic rules may apply for a given range of category-elements. 
+The second scenario, however, serves better to understand that the animation transition, that is associated with each sub-item, may very well be the same for each inner element. So, if a professor wants to list its passions, it is likely that each item will be presented using a same presentation technique. This could be as simple as the case which each item is shown, as professor clicks next, or it could involve animation, such as when each item is shown with a fade in effect. 
+
+Same kind of animation effects can also be used in scenarios among slides, however. Think of the first scenario, and let's assume that each slide is an item of a same category. Say you have a presentation like the following: 
+
+```
+Title: animals I love
+
+Slide 1: lion
+
+Slide 2: tiger
+
+Slide 3: eagle
+```
+
+While the above is not a one-slide list, with 3 elements; yet it displays a condition of structing the inner elements. Therefore, the transition between slides could well be organized with the same effect — say a fade in for every time you slide towards a new animal. 
+
+The usage of the same transition, to indicate that you have a new "animal" kind, becomes a cue for an observer audience. Say that you are watching a presentation with a series of animals and you never know what is the amount of animals to be presented. Would it be possible to know when the list ends before seeing the actual slide totally shown? 
+
+If the transitions are the same, it would; but not exactly because you can see a hint of the next animal as it comes. In part that is true. But it is also true that the transition effect becomes an indicator of the "next item". This is not much different of the structure that helps you know a new item when a bullet is shown in time: 
+
+## List 
+
+* New item 
+* New
+* N
+
+The case of the "unknown" number of animals is an example of a dynamic aggregation — if you look at it from the perspective of tha audience. We dive into this case because our focus is understand different modes of choreographic experiences can be used to organize animation for elements that needs to be presented. 
+
+## Initial design 
+
+A proposed solution is to support presentations to allow the existence of category-elements, such as author; and beyond that, to use section supervisor elements to define how choreographic rules may apply for a given range of category-elements. 
 
 
