@@ -43,3 +43,8 @@ The case of the "unknown" number of animals is an example of a dynamic aggregati
 A proposed solution is to support presentations to allow the existence of category-elements, such as author; and beyond that, to use section supervisor elements to define how choreographic rules may apply for a given range of category-elements. 
 
 
+### Hierarchical composition
+
+Scenarios: 
+
+* To allow a templating system to be active in a given context in a way that it governs how new incoming elements are organized. This would allow say a background to bring, and to be active while a given number of category elements are being displayed. When the last category element is presented, then the whole category animation, the initial templating mode, is destroyed. 
